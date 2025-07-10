@@ -76,3 +76,23 @@
 [23:28:40] [Server thread/WARN]: Santix15 moved wrongly!
 [23:42:45] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
 [23:42:45] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[23:47:01] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[23:47:01] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[23:48:09] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[23:48:09] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[23:52:44] [User Authenticator #2/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[23:52:48] [Server thread/INFO]: lobo3224 joined the game
+[23:52:48] [Server thread/INFO]: lobo3224[/127.208.155.119:44965] logged in with entity id 9378 at ([world]-162.48356568687456, 25.0, 715.5776112644834)
+[23:53:14] [Async Chat Thread - #0/INFO]: [Not Secure] <lobo3224> buenas
+[23:53:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> holas
+[23:53:23] [Server thread/INFO]: lobo3224 issued server command: /op lins
+[23:53:23] [Server thread/INFO]: [lobo3224: Made lins a server operator]
+[23:53:29] [Async Chat Thread - #0/INFO]: [Not Secure] <lobo3224> xd
+[23:53:30] [Server thread/WARN]: Santix15 moved too quickly! 2.2614532603739406,-3.252203340253729,13.213242407756297
+[23:53:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> y eso
+[23:53:36] [Async Chat Thread - #0/INFO]: [Not Secure] <veltrop570> te gusto la bromita gonzi
+[23:53:56] [Async Chat Thread - #0/INFO]: [Not Secure] <lobo3224> lins es adminitrador
+[23:54:01] [Async Chat Thread - #0/INFO]: [Not Secure] <lobo3224> que broma
+[23:54:04] [Server thread/INFO]: Santix15 issued server command: /op lins
+[23:54:12] [Server thread/INFO]: Santix15 issued server command: /deop lins
+[23:54:12] [Server thread/INFO]: [Santix15: Made lins no longer a server operator]
