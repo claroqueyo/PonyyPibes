@@ -242,3 +242,13 @@
 [02:35:16] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
 [02:50:37] [Server thread/INFO]: veltrop570 issued server command: /time set day
 [02:50:37] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[02:59:56] [Server thread/INFO]: lobo3224 issued server command: /tp veltrop570 Santix15
+[02:59:56] [Server thread/INFO]: [lobo3224: Teleported veltrop570 to Santix15]
+[03:01:27] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 kiiki
+[03:01:27] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to kiiki]
+[03:01:53] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 lobo3224
+[03:01:53] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to lobo3224]
+[03:03:19] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[03:03:19] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[03:09:00] [Server thread/INFO]: veltrop570 lost connection: Disconnected
+[03:09:00] [Server thread/INFO]: veltrop570 left the game
