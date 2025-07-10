@@ -235,3 +235,8 @@
 [02:24:26] [Server thread/INFO]: Villager Villager['Weaponsmith'/193, uuid='4d224c80-69ae-4db1-bf21-1f634c080cc9', l='ServerLevel[world]', x=-147.81, y=59.56, z=820.30, cpos=[-10, 51], tl=134250, v=true] died, message: 'Weaponsmith was slain by Zombie Villager'
 [02:24:35] [Server thread/INFO]: Villager Villager['Farmer'/194, uuid='04e4841e-6eb9-4947-82f9-ae61e6a348ad', l='ServerLevel[world]', x=-141.30, y=59.66, z=820.78, cpos=[-9, 51], tl=134440, v=true] died, message: 'Farmer was slain by Zombie Villager'
 [02:27:29] [Server thread/INFO]: kiiki was blown up by Creeper
+[02:34:25] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[02:34:25] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[02:35:12] [Server thread/INFO]: kiiki has made the advancement [A Seedy Place]
+[02:35:16] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[02:35:16] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
