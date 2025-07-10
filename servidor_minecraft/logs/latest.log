@@ -188,3 +188,35 @@
 [01:58:15] [Server thread/INFO]: Santix15 has made the advancement [Wax Off]
 [01:58:25] [Server thread/INFO]: lobo3224 has made the advancement [Wax Off]
 [01:58:42] [Server thread/INFO]: lobo3224 has made the advancement [Lighten Up]
+[02:02:50] [Server thread/INFO]: lobo3224 has made the advancement [Not Today, Thank You]
+[02:05:12] [Server thread/INFO]: lobo3224 was slain by Zombie
+[02:05:18] [Server thread/INFO]: lobo3224 issued server command: /tp kiiki
+[02:05:18] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to kiiki]
+[02:05:19] [Server thread/INFO]: kiiki was slain by Zombie
+[02:05:25] [Async Chat Thread - #1/INFO]: [Not Secure] <kiiki> p
+[02:05:33] [Server thread/INFO]: Santix15 issued server command: /tp kiiki Santix15
+[02:05:33] [Server thread/INFO]: [Santix15: Teleported kiiki to Santix15]
+[02:05:51] [Server thread/INFO]: kiiki was slain by Zombie
+[02:06:09] [Server thread/INFO]: kiiki issued server command: /tp Santix15 kiki
+[02:06:25] [Server thread/INFO]: kiiki issued server command: /tp Santix15 kiiki
+[02:06:25] [Server thread/INFO]: [kiiki: Teleported Santix15 to kiiki]
+[02:06:43] [Server thread/INFO]: kiiki issued server command: /tp kiki lobo3224
+[02:06:57] [Server thread/INFO]: kiiki issued server command: /tp kiiki lobo3224
+[02:06:57] [Server thread/INFO]: [kiiki: Teleported kiiki to lobo3224]
+[02:07:38] [Server thread/INFO]: kiiki was slain by Zombie
+[02:07:40] [Server thread/INFO]: lobo3224 was slain by Zombie
+[02:07:57] [Server thread/INFO]: kiiki issued server command: /tp kiiki lobo3224
+[02:07:57] [Server thread/INFO]: [kiiki: Teleported kiiki to lobo3224]
+[02:08:04] [Server thread/INFO]: lobo3224 issued server command: /tp kiiki
+[02:08:04] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to kiiki]
+[02:08:13] [Server thread/INFO]: kiiki was slain by Zombie
+[02:08:31] [Server thread/INFO]: kiiki issued server command: /tp kiiki lobo3224
+[02:08:31] [Server thread/INFO]: [kiiki: Teleported kiiki to lobo3224]
+[02:09:39] [Server thread/INFO]: kiiki was slain by Zombie
+[02:09:58] [Server thread/INFO]: kiiki issued server command: /tp kiiki kiiki
+[02:09:58] [Server thread/INFO]: [kiiki: Teleported kiiki to kiiki]
+[02:10:11] [Server thread/INFO]: kiiki issued server command: /tp kiiki veltrop570
+[02:10:11] [Server thread/INFO]: [kiiki: Teleported kiiki to veltrop570]
+[02:11:32] [Server thread/INFO]: kiiki was slain by veltrop570
+[02:11:45] [Server thread/INFO]: kiiki issued server command: /tp kiiki veltrop570
+[02:11:45] [Server thread/INFO]: [kiiki: Teleported kiiki to veltrop570]
