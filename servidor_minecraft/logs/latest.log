@@ -1,156 +1,65 @@
-[05:43:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[05:43:26] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
-[05:43:26] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:43:26] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[05:43:26] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[22:53:36] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[22:53:36] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[22:53:36] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:53:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[22:53:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.7.6)
-[05:43:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:43:34] [ServerMain/INFO]: Loaded 1370 recipes
-[05:43:34] [ServerMain/INFO]: Loaded 1481 advancements
-[05:43:34] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[05:43:34] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 235.8ms
-[05:43:34] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[05:43:34] [Server thread/INFO]: Loading properties
-[05:43:34] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[05:43:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:43:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:43:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:43:35] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[05:43:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[05:43:36] [Server thread/INFO]: Default game type: SURVIVAL
-[05:43:36] [Server thread/INFO]: Generating keypair
-[05:43:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:43:36] [Server thread/INFO]: Using epoll channel type
-[05:43:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:43:36] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[05:43:36] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
-[05:43:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:43:36] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
-[05:43:37] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[05:43:38] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:43:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:43:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:43:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:43:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:43:38] [Server thread/INFO]: Preparing level "world"
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:43:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:43:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:43:39] [Server thread/INFO]: Preparing spawn area: 0%
-[05:43:39] [Server thread/INFO]: Preparing spawn area: 6%
-[05:43:39] [Server thread/INFO]: Time elapsed: 944 ms
-[05:43:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:43:39] [Server thread/INFO]: Preparing spawn area: 0%
-[05:43:39] [Server thread/INFO]: Time elapsed: 201 ms
-[05:43:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:43:39] [Server thread/INFO]: Preparing spawn area: 0%
-[05:43:40] [Server thread/INFO]: Time elapsed: 166 ms
-[05:43:40] [Server thread/INFO]: [spark] Starting background profiler...
-[05:43:40] [Server thread/INFO]: Done preparing level "world" (2.234s)
-[05:43:40] [Server thread/INFO]: Running delayed init tasks
-[05:43:40] [Server thread/INFO]: Done (15.560s)! For help, type "help"
-[05:43:58] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
-[05:44:01] [Server thread/INFO]: Santix15 joined the game
-[05:44:01] [Server thread/INFO]: Santix15[/127.55.153.1:39521] logged in with entity id 23 at ([world]-182.8080008688206, 72.0, 858.2008679592132)
-[05:44:02] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 03bef052-4070-4dbb-8fa6-95aa40cd4b57, mapped to Bat['Bat'/124, uuid='03bef052-4070-4dbb-8fa6-95aa40cd4b57', l='ServerLevel[world]', x=-223.56, y=-24.79, z=922.33, cpos=[-14, 57], tl=0, v=true], can't add Bat['Bat'/148, uuid='03bef052-4070-4dbb-8fa6-95aa40cd4b57', l='ServerLevel[world]', x=-224.24, y=-25.72, z=922.75, cpos=[-15, 57], tl=0, v=false]
-[06:01:26] [Server thread/WARN]: Santix15 moved wrongly!
-[06:03:08] [Server thread/INFO]: Santix15 was blown up by Creeper
-[06:21:59] [Server thread/INFO]: Santix15 issued server command: /time set night
-[06:21:59] [Server thread/INFO]: [Santix15: Set the time to 13000]
-[06:24:16] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
-[06:24:16] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
-[06:24:35] [Server thread/INFO]: Santix15 issued server command: /time set day
-[06:24:35] [Server thread/INFO]: [Santix15: Set the time to 1000]
-[06:25:02] [Server thread/INFO]: Villager Villager['Villager'/5870, uuid='d30c39a1-2d4c-44c3-aa9a-0da781cc947a', l='ServerLevel[world]', x=-256.23, y=64.56, z=855.74, cpos=[-17, 53], tl=734, v=true] died, message: 'Villager was slain by Santix15'
-[06:25:25] [Server thread/INFO]: Named entity Zombie['Dinnerbone'/71, uuid='c7c39540-d9b0-4d72-bac0-a67b9d551cde', l='ServerLevel[world]', x=-255.51, y=63.43, z=859.91, cpos=[-16, 53], tl=49655, v=true] died: Dinnerbone suffocated in a wall
-[06:25:40] [Server thread/INFO]: Villager Villager['Fisherman'/73, uuid='73283825-c6b8-4c52-99f6-0791167800ad', l='ServerLevel[world]', x=-254.42, y=64.56, z=857.11, cpos=[-16, 53], tl=49937, v=true] died, message: 'Fisherman was slain by Santix15'
-[06:25:43] [Server thread/INFO]: Villager Villager['Fisherman'/5952, uuid='a873674f-a6b7-443b-b792-01fb39724033', l='ServerLevel[world]', x=-254.57, y=64.56, z=856.05, cpos=[-16, 53], tl=744, v=true] died, message: 'Fisherman was slain by Santix15'
-[06:25:46] [Server thread/INFO]: Villager Villager['Fisherman'/78, uuid='1d69ac58-c700-4391-8618-776be3748df6', l='ServerLevel[world]', x=-254.49, y=64.55, z=855.49, cpos=[-16, 53], tl=50052, v=true] died, message: 'Fisherman was slain by Santix15'
-[06:26:13] [Server thread/INFO]: Villager Villager['Villager'/6060, uuid='170b9e30-0c1a-4541-8087-89aaf5787ef2', l='ServerLevel[world]', x=-255.25, y=64.56, z=855.89, cpos=[-16, 53], tl=124, v=true] died, message: 'Villager was slain by Santix15'
-[06:26:31] [Server thread/INFO]: Villager Villager['Fisherman'/6037, uuid='a27bc710-bc50-4a86-8c1d-71a169c0825d', l='ServerLevel[world]', x=-256.12, y=62.96, z=851.62, cpos=[-17, 53], tl=697, v=true] died, message: 'Fisherman tried to swim in lava to escape Santix15'
-[06:27:02] [Server thread/INFO]: Villager Villager['Fisherman'/6035, uuid='e1f270cb-286c-4be1-8de3-438b55d3cae8', l='ServerLevel[world]', x=-256.33, y=64.00, z=855.38, cpos=[-17, 53], tl=1355, v=true] died, message: 'Fisherman was slain by Santix15'
-[06:27:04] [Server thread/INFO]: Villager Villager['Fisherman'/6129, uuid='938058ee-2251-449c-8d09-d6dcf294e406', l='ServerLevel[world]', x=-254.48, y=64.56, z=856.52, cpos=[-16, 53], tl=371, v=true] died, message: 'Fisherman was slain by Santix15'
-[06:27:05] [Server thread/INFO]: Villager Villager['Villager'/6131, uuid='5fa2149e-bf63-400d-8688-0acce3cc5626', l='ServerLevel[world]', x=-254.50, y=64.56, z=855.66, cpos=[-16, 53], tl=373, v=true] died, message: 'Villager was slain by Santix15'
-[06:27:43] [Server thread/INFO]: Villager Villager['Villager'/6045, uuid='004506dd-b5cd-4ac8-b77d-fd9fe0c9b597', l='ServerLevel[world]', x=-262.40, y=63.94, z=848.65, cpos=[-17, 53], tl=2081, v=true] died, message: 'Villager was slain by Santix15'
-[06:28:05] [Server thread/INFO]: Santix15 issued server command: /time set night
-[06:28:05] [Server thread/INFO]: [Santix15: Set the time to 13000]
-[06:29:32] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
-[06:29:32] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
-[06:55:49] [Server thread/INFO]: Villager Villager['Farmer'/50, uuid='7f94f352-5887-4e8c-a537-7f1269542cf4', l='ServerLevel[world]', x=-142.08, y=59.88, z=822.48, cpos=[-9, 51], tl=86143, v=true] died, message: 'Farmer was slain by Zombie'
-[06:56:01] [Server thread/INFO]: Villager Villager['Weaponsmith'/52, uuid='a1d2c9a6-f83c-4017-87c4-86a4d82820ee', l='ServerLevel[world]', x=-141.39, y=60.00, z=826.50, cpos=[-9, 51], tl=86379, v=true] died, message: 'Weaponsmith was slain by Zombie'
-[06:56:10] [Server thread/INFO]: Villager Villager['Librarian'/51, uuid='08daf0aa-0cda-4c85-8564-1fb201d30710', l='ServerLevel[world]', x=-150.30, y=59.56, z=822.12, cpos=[-10, 51], tl=86563, v=true] died, message: 'Librarian was slain by Zombie'
-[06:56:13] [Server thread/INFO]: Villager Villager['Toolsmith'/88, uuid='ad0a826c-7698-4a9f-bab2-c633938b6042', l='ServerLevel[world]', x=-150.64, y=59.00, z=823.25, cpos=[-10, 51], tl=86604, v=true] died, message: 'Toolsmith was slain by Zombie Villager'
-[06:56:25] [Server thread/INFO]: Villager Villager['Fletcher'/89, uuid='6f071f27-4084-43fc-a246-b53ce4ad3d08', l='ServerLevel[world]', x=-150.70, y=59.56, z=820.38, cpos=[-10, 51], tl=86843, v=true] died, message: 'Fletcher was slain by Zombie Villager'
-[06:56:40] [Server thread/INFO]: Villager Villager['Armorer'/49, uuid='eb902115-f51b-4385-b305-a7b5905b7096', l='ServerLevel[world]', x=-142.36, y=60.00, z=826.49, cpos=[-9, 51], tl=87145, v=true] died, message: 'Armorer was slain by Zombie Villager'
-[06:56:44] [Server thread/INFO]: Villager Villager['Fletcher'/87, uuid='a8b16fcd-cd59-4db0-8f4a-709f1fbdd77c', l='ServerLevel[world]', x=-141.44, y=59.00, z=822.76, cpos=[-9, 51], tl=87230, v=true] died, message: 'Fletcher was slain by Zombie Villager'
-[07:51:38] [Server thread/INFO]: Villager Villager['Fisherman'/6205, uuid='6a845455-439c-44fd-8b3d-d76bab34a7a0', l='ServerLevel[world]', x=-256.70, y=64.56, z=855.93, cpos=[-17, 53], tl=100784, v=true] died, message: 'Fisherman was slain by Trader Llama'
-[07:51:58] [Server thread/INFO]: Villager Villager['Fisherman'/6203, uuid='9fd4e09a-892a-479b-8abb-a8758a49649c', l='ServerLevel[world]', x=-256.63, y=64.56, z=857.51, cpos=[-17, 53], tl=101214, v=true] died, message: 'Fisherman was slain by Trader Llama'
-[07:53:18] [Server thread/INFO]: Named entity Zombie['Dinnerbone'/6253, uuid='0ddb187f-9f20-4878-b539-bc83f1d600be', l='ServerLevel[world]', x=-255.52, y=63.43, z=858.69, cpos=[-16, 53], tl=102231, v=true] died: Dinnerbone was slain by Trader Llama
-[08:10:20] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
-[08:10:20] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
-[08:18:43] [Server thread/INFO]: Santix15 issued server command: /time set day
-[08:18:43] [Server thread/INFO]: [Santix15: Set the time to 1000]
-[08:23:33] [Server thread/INFO]: Villager Villager['Toolsmith'/18991, uuid='d1f8c7e5-0544-46a7-9fde-2b04fd744516', l='ServerLevel[world]', x=-141.30, y=60.00, z=826.70, cpos=[-9, 51], tl=15482, v=true] died, message: 'Toolsmith was slain by Santix15'
-[08:23:36] [Server thread/INFO]: Villager Villager['Fletcher'/18984, uuid='2337eac6-0bde-47a7-9bca-b33d076e3748', l='ServerLevel[world]', x=-144.57, y=59.92, z=825.88, cpos=[-10, 51], tl=15622, v=true] died, message: 'Fletcher was slain by Santix15'
-[08:23:38] [Server thread/INFO]: Villager Villager['Villager'/18985, uuid='d04c61d8-38de-417c-b1e9-5f1f6a2c9a6c', l='ServerLevel[world]', x=-145.83, y=59.00, z=824.33, cpos=[-10, 51], tl=15647, v=true] died, message: 'Villager was slain by Santix15'
-[08:23:40] [Server thread/INFO]: Villager Villager['Farmer'/18983, uuid='419ad39e-9159-4a43-a15e-996975b2cae6', l='ServerLevel[world]', x=-148.49, y=59.00, z=823.64, cpos=[-10, 51], tl=15712, v=true] died, message: 'Farmer was slain by Santix15'
-[08:23:42] [Server thread/INFO]: Villager Villager['Fletcher'/18978, uuid='8a1db026-7a88-4bcb-b3e4-cdd43eaf48fd', l='ServerLevel[world]', x=-143.88, y=59.00, z=825.03, cpos=[-9, 51], tl=15803, v=true] died, message: 'Fletcher was slain by Santix15'
-[08:23:44] [Server thread/INFO]: Villager Villager['Weaponsmith'/18979, uuid='3c99bc2f-52fe-4e95-b6c4-aa2e9b52f0ae', l='ServerLevel[world]', x=-147.93, y=60.00, z=826.65, cpos=[-10, 51], tl=15830, v=true] died, message: 'Weaponsmith was slain by Santix15'
-[08:23:58] [Server thread/INFO]: Villager Villager['Armorer'/18981, uuid='52340fa1-2753-4408-b73f-4e8f735644be', l='ServerLevel[world]', x=-146.26, y=60.00, z=826.52, cpos=[-10, 51], tl=16105, v=true] died, message: 'Armorer was slain by Santix15'
-[08:24:08] [Server thread/INFO]: Villager Villager['Fletcher'/19004, uuid='d41a28d6-95fa-46a2-a534-0bf15d4aec5f', l='ServerLevel[world]', x=-148.28, y=60.00, z=825.73, cpos=[-10, 51], tl=16020, v=true] died, message: 'Fletcher was slain by Santix15'
-[08:24:09] [Server thread/INFO]: Villager Villager['Villager'/20269, uuid='e3104a40-1305-4c42-b897-dc7ae50bedbe', l='ServerLevel[world]', x=-148.20, y=59.77, z=825.75, cpos=[-10, 51], tl=369, v=true] died, message: 'Villager was slain by Santix15'
-[08:29:57] [Server thread/INFO]: Santix15 issued server command: /time set day
-[08:29:57] [Server thread/INFO]: [Santix15: Set the time to 1000]
-[08:31:48] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
-[08:31:48] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
-[08:32:18] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
-[08:32:18] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
-[08:39:02] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
-[08:39:02] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
-[08:40:42] [Server thread/INFO]: Santix15 lost connection: Disconnected
-[08:40:42] [Server thread/INFO]: Santix15 left the game
-[08:40:54] [Server thread/INFO]: Stopping the server
-[08:40:54] [Server thread/INFO]: Stopping server
-[08:40:54] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.6
-[08:40:54] [Server thread/INFO]: Saving players
-[08:40:54] [Server thread/INFO]: Saving worlds
-[08:40:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:40:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[08:40:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[08:40:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[08:40:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[08:40:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[08:40:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[08:40:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[08:40:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[08:40:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[08:40:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:40:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:40:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:40:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:40:55] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[08:40:55] [Server thread/INFO]: All I/O tasks to complete
-[08:40:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[08:40:55] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[22:53:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:53:44] [ServerMain/INFO]: Loaded 1370 recipes
+[22:53:44] [ServerMain/INFO]: Loaded 1481 advancements
+[22:53:44] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[22:53:44] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 222.4ms
+[22:53:44] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:53:44] [Server thread/INFO]: Loading properties
+[22:53:44] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[22:53:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:53:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:53:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:53:45] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:53:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:53:45] [Server thread/INFO]: Default game type: SURVIVAL
+[22:53:45] [Server thread/INFO]: Generating keypair
+[22:53:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:53:45] [Server thread/INFO]: Using epoll channel type
+[22:53:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:53:45] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[22:53:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
+[22:53:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:53:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
+[22:53:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[22:53:47] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:53:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:53:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:53:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:53:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:53:47] [Server thread/INFO]: Preparing level "world"
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:53:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:53:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:53:48] [Server thread/INFO]: Preparing spawn area: 0%
+[22:53:48] [Server thread/INFO]: Preparing spawn area: 2%
+[22:53:48] [Server thread/INFO]: Time elapsed: 956 ms
+[22:53:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:53:48] [Server thread/INFO]: Preparing spawn area: 0%
+[22:53:49] [Server thread/INFO]: Time elapsed: 304 ms
+[22:53:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:53:49] [Server thread/INFO]: Preparing spawn area: 0%
+[22:53:49] [Server thread/INFO]: Time elapsed: 188 ms
+[22:53:49] [Server thread/INFO]: [spark] Starting background profiler...
+[22:53:49] [Server thread/INFO]: Done preparing level "world" (2.402s)
+[22:53:49] [Server thread/INFO]: Running delayed init tasks
+[22:53:49] [Server thread/INFO]: Done (14.675s)! For help, type "help"
+[22:56:52] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22:56:55] [Server thread/INFO]: Santix15 joined the game
+[22:56:55] [Server thread/INFO]: Santix15[/127.110.96.188:60769] logged in with entity id 23 at ([world]-170.96859771921783, 64.0, 824.6995389906028)
