@@ -220,3 +220,9 @@
 [02:11:32] [Server thread/INFO]: kiiki was slain by veltrop570
 [02:11:45] [Server thread/INFO]: kiiki issued server command: /tp kiiki veltrop570
 [02:11:45] [Server thread/INFO]: [kiiki: Teleported kiiki to veltrop570]
+[02:12:46] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[02:12:46] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[02:12:57] [Server thread/INFO]: veltrop570 issued server command: /tp kiiki Santix15
+[02:12:57] [Server thread/INFO]: [veltrop570: Teleported kiiki to Santix15]
+[02:13:06] [Server thread/INFO]: veltrop570 issued server command: /tp lobo3224 Santix15
+[02:13:06] [Server thread/INFO]: [veltrop570: Teleported lobo3224 to Santix15]
