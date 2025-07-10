@@ -114,3 +114,37 @@
 [01:30:14] [Server thread/INFO]: Santix15 issued server command: /tp kiiki Santix15
 [01:30:14] [Server thread/INFO]: [Santix15: Teleported kiiki to Santix15]
 [01:30:49] [Server thread/INFO]: Santix15 has made the advancement [Take Aim]
+[01:32:01] [User Authenticator #3/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[01:32:03] [Server thread/INFO]: lobo3224 joined the game
+[01:32:03] [Server thread/INFO]: lobo3224[/127.208.155.119:55875] logged in with entity id 11560 at ([world]-27.15396218290214, 63.0, 56.50165097510755)
+[01:33:01] [Server thread/INFO]: Santix15 issued server command: /tp lobo3224 Santix15
+[01:33:01] [Server thread/INFO]: [Santix15: Teleported lobo3224 to Santix15]
+[01:33:02] [Server thread/INFO]: lobo3224 has made the advancement [Minecraft: Trial(s) Edition]
+[01:33:31] [Server thread/INFO]: Santix15 issued server command: /op lobo3224
+[01:33:31] [Server thread/INFO]: [Santix15: Made lobo3224 a server operator]
+[01:33:36] [Server thread/INFO]: Santix15 issued server command: /op veltrop570
+[01:33:36] [Server thread/INFO]: [Santix15: Made veltrop570 a server operator]
+[01:34:00] [Server thread/INFO]: lobo3224 issued server command: /skin lobo3224
+[01:34:02] [Server thread/INFO]: veltrop570 was shot by Bogged
+[01:34:26] [Server thread/INFO]: lobo3224 was shot by Bogged
+[01:34:58] [Server thread/INFO]: Santix15 issued server command: /tp lobo3224 Santix15
+[01:34:58] [Server thread/INFO]: [Santix15: Teleported lobo3224 to Santix15]
+[01:35:04] [Server thread/INFO]: Santix15 issued server command: /op kiiki
+[01:35:04] [Server thread/INFO]: [Santix15: Made kiiki a server operator]
+[01:35:16] [Server thread/INFO]: lobo3224 has made the advancement [Acquire Hardware]
+[01:35:28] [Server thread/INFO]: lobo3224 has made the advancement [Diamonds!]
+[01:35:47] [Server thread/INFO]: kiiki has made the advancement [Diamonds!]
+[01:37:20] [Server thread/INFO]: lobo3224 has made the advancement [Getting an Upgrade]
+[01:37:59] [Server thread/INFO]: veltrop570 was shot by Bogged
+[01:38:05] [Server thread/INFO]: lobo3224 was slain by Zombie
+[01:38:12] [Server thread/INFO]: Santix15 issued server command: /tp lobo3224 Santix15
+[01:38:12] [Server thread/INFO]: [Santix15: Teleported lobo3224 to Santix15]
+[01:38:17] [Server thread/INFO]: lobo3224 has made the advancement [Suit Up]
+[01:38:29] [Server thread/INFO]: veltrop570 issued server command: /tp kiki
+[01:38:56] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
+[01:38:56] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
+[01:40:05] [Server thread/INFO]: lobo3224 has made the advancement [Isn't It Iron Pick]
+[01:40:11] [Server thread/INFO]: kiiki has made the advancement [Who Needs Rockets?]
+[01:40:39] [Server thread/INFO]: lobo3224 has made the advancement [Sweet Dreams]
+[01:41:20] [Server thread/INFO]: veltrop570 hit the ground too hard while trying to escape Bogged
+[01:41:30] [Server thread/INFO]: lobo3224 has made the advancement [Stone Age]
