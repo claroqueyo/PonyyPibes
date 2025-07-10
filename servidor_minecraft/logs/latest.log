@@ -226,3 +226,12 @@
 [02:12:57] [Server thread/INFO]: [veltrop570: Teleported kiiki to Santix15]
 [02:13:06] [Server thread/INFO]: veltrop570 issued server command: /tp lobo3224 Santix15
 [02:13:06] [Server thread/INFO]: [veltrop570: Teleported lobo3224 to Santix15]
+[02:23:38] [Server thread/INFO]: Villager Villager['Toolsmith'/214, uuid='5590da27-6ca0-49cd-9f82-84eef995c5c2', l='ServerLevel[world]', x=-141.36, y=59.75, z=822.76, cpos=[-9, 51], tl=133288, v=true] died, message: 'Toolsmith was slain by Zombie'
+[02:24:03] [Server thread/INFO]: Villager Villager['Fletcher'/212, uuid='3df08065-c9a2-42eb-a1b9-a2ccff735be7', l='ServerLevel[world]', x=-148.71, y=59.00, z=825.40, cpos=[-10, 51], tl=133777, v=true] died, message: 'Fletcher was slain by Zombie'
+[02:24:11] [Server thread/INFO]: Villager Villager['Toolsmith'/195, uuid='d42dbeda-0097-49c2-ba6c-470173f18a0a', l='ServerLevel[world]', x=-141.49, y=59.75, z=822.76, cpos=[-9, 51], tl=130113, v=true] died, message: 'Toolsmith was slain by Zombie'
+[02:24:12] [Server thread/INFO]: Villager Villager['Armorer'/192, uuid='fdd7bc92-abdc-47e7-94f7-543465aa0925', l='ServerLevel[world]', x=-148.04, y=60.02, z=826.50, cpos=[-10, 51], tl=133975, v=true] died, message: 'Armorer was slain by Zombie Villager'
+[02:24:15] [Server thread/INFO]: Villager Villager['Librarian'/196, uuid='72ae89e5-05be-48a8-85c5-3dd1c7e8cb0e', l='ServerLevel[world]', x=-143.41, y=59.56, z=820.83, cpos=[-9, 51], tl=130185, v=true] died, message: 'Librarian was slain by Zombie'
+[02:24:19] [Server thread/INFO]: Villager Villager['Fletcher'/213, uuid='f68fa207-3b5e-4a1e-bb56-1c39827073cb', l='ServerLevel[world]', x=-142.63, y=59.56, z=820.44, cpos=[-9, 51], tl=134099, v=true] died, message: 'Fletcher was slain by Zombie'
+[02:24:26] [Server thread/INFO]: Villager Villager['Weaponsmith'/193, uuid='4d224c80-69ae-4db1-bf21-1f634c080cc9', l='ServerLevel[world]', x=-147.81, y=59.56, z=820.30, cpos=[-10, 51], tl=134250, v=true] died, message: 'Weaponsmith was slain by Zombie Villager'
+[02:24:35] [Server thread/INFO]: Villager Villager['Farmer'/194, uuid='04e4841e-6eb9-4947-82f9-ae61e6a348ad', l='ServerLevel[world]', x=-141.30, y=59.66, z=820.78, cpos=[-9, 51], tl=134440, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[02:27:29] [Server thread/INFO]: kiiki was blown up by Creeper
