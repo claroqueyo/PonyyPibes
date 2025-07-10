@@ -110,3 +110,9 @@
 [08:23:58] [Server thread/INFO]: Villager Villager['Armorer'/18981, uuid='52340fa1-2753-4408-b73f-4e8f735644be', l='ServerLevel[world]', x=-146.26, y=60.00, z=826.52, cpos=[-10, 51], tl=16105, v=true] died, message: 'Armorer was slain by Santix15'
 [08:24:08] [Server thread/INFO]: Villager Villager['Fletcher'/19004, uuid='d41a28d6-95fa-46a2-a534-0bf15d4aec5f', l='ServerLevel[world]', x=-148.28, y=60.00, z=825.73, cpos=[-10, 51], tl=16020, v=true] died, message: 'Fletcher was slain by Santix15'
 [08:24:09] [Server thread/INFO]: Villager Villager['Villager'/20269, uuid='e3104a40-1305-4c42-b897-dc7ae50bedbe', l='ServerLevel[world]', x=-148.20, y=59.77, z=825.75, cpos=[-10, 51], tl=369, v=true] died, message: 'Villager was slain by Santix15'
+[08:29:57] [Server thread/INFO]: Santix15 issued server command: /time set day
+[08:29:57] [Server thread/INFO]: [Santix15: Set the time to 1000]
+[08:31:48] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[08:31:48] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[08:32:18] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[08:32:18] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
