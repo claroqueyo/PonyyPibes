@@ -318,3 +318,26 @@
 [04:41:43] [Server thread/INFO]: lobo3224 issued server command: /skin PolloFrito_
 [04:43:00] [Server thread/INFO]: Santix15 lost connection: Timed out
 [04:43:00] [Server thread/INFO]: Santix15 left the game
+[04:43:44] [User Authenticator #4/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[04:43:46] [Server thread/INFO]: Santix15 joined the game
+[04:43:46] [Server thread/INFO]: Santix15[/127.208.155.119:43669] logged in with entity id 54446 at ([world]-144.81543757523974, 55.08332596836584, 823.623960302537)
+[04:43:57] [Server thread/INFO]: lobo3224 was slain by Santix15
+[04:43:59] [Server thread/INFO]: Santix15 has made the advancement [Isn't It Iron Pick]
+[04:43:59] [Server thread/INFO]: Santix15 has made the advancement [Getting an Upgrade]
+[04:44:11] [Server thread/INFO]: lobo3224 was slain by Santix15
+[04:44:22] [Server thread/INFO]: Villager Villager['Farmer'/23330, uuid='a166545f-d02d-462c-a700-0b8a9efebb28', l='ServerLevel[world]', x=-142.52, y=59.88, z=821.68, cpos=[-9, 51], tl=107049, v=true] died, message: 'Farmer was slain by Zombie'
+[04:44:23] [Server thread/INFO]: lobo3224 was slain by Santix15
+[04:44:52] [Server thread/INFO]: lobo3224 was slain by Zombie Villager
+[04:45:12] [Server thread/INFO]: lobo3224 issued server command: /skin zombie
+[04:45:32] [Server thread/INFO]: lobo3224 issued server command: /skin esqueleto
+[04:45:45] [Server thread/INFO]: lobo3224 issued server command: /skin araña
+[04:46:01] [Server thread/INFO]: lobo3224 issued server command: /skin zombie
+[04:46:12] [Server thread/INFO]: lobo3224 was shot by Skeleton
+[04:46:47] [Server thread/INFO]: lobo3224 was impaled by Drowned
+[04:47:09] [Server thread/INFO]: lobo3224 was shot by Skeleton
+[04:47:28] [Server thread/INFO]: lobo3224 was slain by Zombie
+[04:47:47] [Server thread/INFO]: lobo3224 was shot by Skeleton
+[04:48:50] [Server thread/INFO]: lobo3224 issued server command: /skin esqueleto wither
+[04:48:57] [Server thread/INFO]: lobo3224 issued server command: /skin whiter
+[04:49:23] [Server thread/INFO]: lobo3224 issued server command: /skin starvtberr
+[04:50:16] [Server thread/INFO]: lobo3224 issued server command: /skin themagmaboi
