@@ -69,3 +69,8 @@
 [23:20:22] [Server thread/INFO]: veltrop570 has made the advancement [Ol' Betsy]
 [23:23:43] [Server thread/INFO]: Santix15 issued server command: /op veltrop570
 [23:23:43] [Server thread/INFO]: [Santix15: Made veltrop570 a server operator]
+[23:23:53] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[23:23:53] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[23:27:12] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[23:27:12] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[23:28:40] [Server thread/WARN]: Santix15 moved wrongly!
