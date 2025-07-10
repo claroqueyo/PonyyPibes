@@ -252,3 +252,10 @@
 [03:03:19] [Server thread/INFO]: [veltrop570: Set the time to 1000]
 [03:09:00] [Server thread/INFO]: veltrop570 lost connection: Disconnected
 [03:09:00] [Server thread/INFO]: veltrop570 left the game
+[03:14:32] [Server thread/INFO]: Villager Villager['Villager'/29775, uuid='beba6d19-860e-42ff-be5f-32dfbe73e092', l='ServerLevel[world]', x=398.51, y=78.00, z=1429.30, cpos=[24, 89], tl=22149, v=true] died, message: 'Villager was slain by Zombie'
+[03:14:39] [Server thread/INFO]: Villager Villager['Villager'/29961, uuid='a79288f9-d5ce-4ab2-b44a-d29c98906da5', l='ServerLevel[world]', x=401.70, y=78.00, z=1429.70, cpos=[25, 89], tl=21994, v=true] died, message: 'Villager was slain by Zombie'
+[03:14:40] [Server thread/INFO]: Villager Villager['Farmer'/29841, uuid='2cce0da0-0dfc-46a0-a005-7ca976edf10e', l='ServerLevel[world]', x=399.13, y=78.00, z=1429.70, cpos=[24, 89], tl=22083, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[03:14:46] [Server thread/INFO]: Villager Villager['Villager'/29842, uuid='ce468147-b837-4af7-a3a4-2a736abf2e67', l='ServerLevel[world]', x=401.70, y=78.00, z=1429.70, cpos=[25, 89], tl=22203, v=true] died, message: 'Villager was slain by Zombie Villager'
+[03:14:51] [Server thread/INFO]: Villager Villager['Villager'/29459, uuid='b543d93a-887f-49de-8114-d599f0b39bd6', l='ServerLevel[world]', x=399.55, y=78.00, z=1429.30, cpos=[24, 89], tl=22740, v=true] died, message: 'Villager was slain by Zombie Villager'
+[03:17:08] [Server thread/INFO]: Villager Villager['Farmer'/29776, uuid='6dab3a30-6ae5-4d2b-90b8-ba01965a6a06', l='ServerLevel[world]', x=392.06, y=62.48, z=1477.97, cpos=[24, 92], tl=25198, v=true] died, message: 'Farmer was slain by Drowned'
+[03:17:17] [Server thread/INFO]: Villager Villager['Nitwit'/29845, uuid='7eb4e6b7-2022-40ad-901e-09395dee425f', l='ServerLevel[world]', x=413.70, y=79.00, z=1442.66, cpos=[25, 90], tl=25226, v=true] died, message: 'Nitwit was slain by Zombie'
