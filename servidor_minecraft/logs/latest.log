@@ -97,3 +97,5 @@
 [07:51:38] [Server thread/INFO]: Villager Villager['Fisherman'/6205, uuid='6a845455-439c-44fd-8b3d-d76bab34a7a0', l='ServerLevel[world]', x=-256.70, y=64.56, z=855.93, cpos=[-17, 53], tl=100784, v=true] died, message: 'Fisherman was slain by Trader Llama'
 [07:51:58] [Server thread/INFO]: Villager Villager['Fisherman'/6203, uuid='9fd4e09a-892a-479b-8abb-a8758a49649c', l='ServerLevel[world]', x=-256.63, y=64.56, z=857.51, cpos=[-17, 53], tl=101214, v=true] died, message: 'Fisherman was slain by Trader Llama'
 [07:53:18] [Server thread/INFO]: Named entity Zombie['Dinnerbone'/6253, uuid='0ddb187f-9f20-4878-b539-bc83f1d600be', l='ServerLevel[world]', x=-255.52, y=63.43, z=858.69, cpos=[-16, 53], tl=102231, v=true] died: Dinnerbone was slain by Trader Llama
+[08:10:20] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[08:10:20] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
