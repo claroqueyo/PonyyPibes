@@ -63,3 +63,9 @@
 [22:56:52] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [22:56:55] [Server thread/INFO]: Santix15 joined the game
 [22:56:55] [Server thread/INFO]: Santix15[/127.110.96.188:60769] logged in with entity id 23 at ([world]-170.96859771921783, 64.0, 824.6995389906028)
+[23:06:18] [User Authenticator #1/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
+[23:06:23] [Server thread/INFO]: veltrop570 joined the game
+[23:06:23] [Server thread/INFO]: veltrop570[/127.178.218.240:36975] logged in with entity id 1318 at ([world]-280.71646647459124, 66.0, 930.5630044847442)
+[23:20:22] [Server thread/INFO]: veltrop570 has made the advancement [Ol' Betsy]
+[23:23:43] [Server thread/INFO]: Santix15 issued server command: /op veltrop570
+[23:23:43] [Server thread/INFO]: [Santix15: Made veltrop570 a server operator]
