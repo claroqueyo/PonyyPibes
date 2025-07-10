@@ -87,3 +87,10 @@
 [06:28:05] [Server thread/INFO]: [Santix15: Set the time to 13000]
 [06:29:32] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
 [06:29:32] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[06:55:49] [Server thread/INFO]: Villager Villager['Farmer'/50, uuid='7f94f352-5887-4e8c-a537-7f1269542cf4', l='ServerLevel[world]', x=-142.08, y=59.88, z=822.48, cpos=[-9, 51], tl=86143, v=true] died, message: 'Farmer was slain by Zombie'
+[06:56:01] [Server thread/INFO]: Villager Villager['Weaponsmith'/52, uuid='a1d2c9a6-f83c-4017-87c4-86a4d82820ee', l='ServerLevel[world]', x=-141.39, y=60.00, z=826.50, cpos=[-9, 51], tl=86379, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[06:56:10] [Server thread/INFO]: Villager Villager['Librarian'/51, uuid='08daf0aa-0cda-4c85-8564-1fb201d30710', l='ServerLevel[world]', x=-150.30, y=59.56, z=822.12, cpos=[-10, 51], tl=86563, v=true] died, message: 'Librarian was slain by Zombie'
+[06:56:13] [Server thread/INFO]: Villager Villager['Toolsmith'/88, uuid='ad0a826c-7698-4a9f-bab2-c633938b6042', l='ServerLevel[world]', x=-150.64, y=59.00, z=823.25, cpos=[-10, 51], tl=86604, v=true] died, message: 'Toolsmith was slain by Zombie Villager'
+[06:56:25] [Server thread/INFO]: Villager Villager['Fletcher'/89, uuid='6f071f27-4084-43fc-a246-b53ce4ad3d08', l='ServerLevel[world]', x=-150.70, y=59.56, z=820.38, cpos=[-10, 51], tl=86843, v=true] died, message: 'Fletcher was slain by Zombie Villager'
+[06:56:40] [Server thread/INFO]: Villager Villager['Armorer'/49, uuid='eb902115-f51b-4385-b305-a7b5905b7096', l='ServerLevel[world]', x=-142.36, y=60.00, z=826.49, cpos=[-9, 51], tl=87145, v=true] died, message: 'Armorer was slain by Zombie Villager'
+[06:56:44] [Server thread/INFO]: Villager Villager['Fletcher'/87, uuid='a8b16fcd-cd59-4db0-8f4a-709f1fbdd77c', l='ServerLevel[world]', x=-141.44, y=59.00, z=822.76, cpos=[-9, 51], tl=87230, v=true] died, message: 'Fletcher was slain by Zombie Villager'
