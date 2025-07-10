@@ -64,3 +64,5 @@
 [05:44:01] [Server thread/INFO]: Santix15 joined the game
 [05:44:01] [Server thread/INFO]: Santix15[/127.55.153.1:39521] logged in with entity id 23 at ([world]-182.8080008688206, 72.0, 858.2008679592132)
 [05:44:02] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 03bef052-4070-4dbb-8fa6-95aa40cd4b57, mapped to Bat['Bat'/124, uuid='03bef052-4070-4dbb-8fa6-95aa40cd4b57', l='ServerLevel[world]', x=-223.56, y=-24.79, z=922.33, cpos=[-14, 57], tl=0, v=true], can't add Bat['Bat'/148, uuid='03bef052-4070-4dbb-8fa6-95aa40cd4b57', l='ServerLevel[world]', x=-224.24, y=-25.72, z=922.75, cpos=[-15, 57], tl=0, v=false]
+[06:01:26] [Server thread/WARN]: Santix15 moved wrongly!
+[06:03:08] [Server thread/INFO]: Santix15 was blown up by Creeper
