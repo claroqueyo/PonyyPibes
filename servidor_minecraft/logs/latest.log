@@ -74,3 +74,5 @@
 [23:27:12] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
 [23:27:12] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
 [23:28:40] [Server thread/WARN]: Santix15 moved wrongly!
+[23:42:45] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[23:42:45] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
