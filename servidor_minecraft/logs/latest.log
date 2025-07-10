@@ -99,3 +99,14 @@
 [07:53:18] [Server thread/INFO]: Named entity Zombie['Dinnerbone'/6253, uuid='0ddb187f-9f20-4878-b539-bc83f1d600be', l='ServerLevel[world]', x=-255.52, y=63.43, z=858.69, cpos=[-16, 53], tl=102231, v=true] died: Dinnerbone was slain by Trader Llama
 [08:10:20] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
 [08:10:20] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[08:18:43] [Server thread/INFO]: Santix15 issued server command: /time set day
+[08:18:43] [Server thread/INFO]: [Santix15: Set the time to 1000]
+[08:23:33] [Server thread/INFO]: Villager Villager['Toolsmith'/18991, uuid='d1f8c7e5-0544-46a7-9fde-2b04fd744516', l='ServerLevel[world]', x=-141.30, y=60.00, z=826.70, cpos=[-9, 51], tl=15482, v=true] died, message: 'Toolsmith was slain by Santix15'
+[08:23:36] [Server thread/INFO]: Villager Villager['Fletcher'/18984, uuid='2337eac6-0bde-47a7-9bca-b33d076e3748', l='ServerLevel[world]', x=-144.57, y=59.92, z=825.88, cpos=[-10, 51], tl=15622, v=true] died, message: 'Fletcher was slain by Santix15'
+[08:23:38] [Server thread/INFO]: Villager Villager['Villager'/18985, uuid='d04c61d8-38de-417c-b1e9-5f1f6a2c9a6c', l='ServerLevel[world]', x=-145.83, y=59.00, z=824.33, cpos=[-10, 51], tl=15647, v=true] died, message: 'Villager was slain by Santix15'
+[08:23:40] [Server thread/INFO]: Villager Villager['Farmer'/18983, uuid='419ad39e-9159-4a43-a15e-996975b2cae6', l='ServerLevel[world]', x=-148.49, y=59.00, z=823.64, cpos=[-10, 51], tl=15712, v=true] died, message: 'Farmer was slain by Santix15'
+[08:23:42] [Server thread/INFO]: Villager Villager['Fletcher'/18978, uuid='8a1db026-7a88-4bcb-b3e4-cdd43eaf48fd', l='ServerLevel[world]', x=-143.88, y=59.00, z=825.03, cpos=[-9, 51], tl=15803, v=true] died, message: 'Fletcher was slain by Santix15'
+[08:23:44] [Server thread/INFO]: Villager Villager['Weaponsmith'/18979, uuid='3c99bc2f-52fe-4e95-b6c4-aa2e9b52f0ae', l='ServerLevel[world]', x=-147.93, y=60.00, z=826.65, cpos=[-10, 51], tl=15830, v=true] died, message: 'Weaponsmith was slain by Santix15'
+[08:23:58] [Server thread/INFO]: Villager Villager['Armorer'/18981, uuid='52340fa1-2753-4408-b73f-4e8f735644be', l='ServerLevel[world]', x=-146.26, y=60.00, z=826.52, cpos=[-10, 51], tl=16105, v=true] died, message: 'Armorer was slain by Santix15'
+[08:24:08] [Server thread/INFO]: Villager Villager['Fletcher'/19004, uuid='d41a28d6-95fa-46a2-a534-0bf15d4aec5f', l='ServerLevel[world]', x=-148.28, y=60.00, z=825.73, cpos=[-10, 51], tl=16020, v=true] died, message: 'Fletcher was slain by Santix15'
+[08:24:09] [Server thread/INFO]: Villager Villager['Villager'/20269, uuid='e3104a40-1305-4c42-b897-dc7ae50bedbe', l='ServerLevel[world]', x=-148.20, y=59.77, z=825.75, cpos=[-10, 51], tl=369, v=true] died, message: 'Villager was slain by Santix15'
