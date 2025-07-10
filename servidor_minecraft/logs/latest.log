@@ -68,3 +68,22 @@
 [06:03:08] [Server thread/INFO]: Santix15 was blown up by Creeper
 [06:21:59] [Server thread/INFO]: Santix15 issued server command: /time set night
 [06:21:59] [Server thread/INFO]: [Santix15: Set the time to 13000]
+[06:24:16] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[06:24:16] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[06:24:35] [Server thread/INFO]: Santix15 issued server command: /time set day
+[06:24:35] [Server thread/INFO]: [Santix15: Set the time to 1000]
+[06:25:02] [Server thread/INFO]: Villager Villager['Villager'/5870, uuid='d30c39a1-2d4c-44c3-aa9a-0da781cc947a', l='ServerLevel[world]', x=-256.23, y=64.56, z=855.74, cpos=[-17, 53], tl=734, v=true] died, message: 'Villager was slain by Santix15'
+[06:25:25] [Server thread/INFO]: Named entity Zombie['Dinnerbone'/71, uuid='c7c39540-d9b0-4d72-bac0-a67b9d551cde', l='ServerLevel[world]', x=-255.51, y=63.43, z=859.91, cpos=[-16, 53], tl=49655, v=true] died: Dinnerbone suffocated in a wall
+[06:25:40] [Server thread/INFO]: Villager Villager['Fisherman'/73, uuid='73283825-c6b8-4c52-99f6-0791167800ad', l='ServerLevel[world]', x=-254.42, y=64.56, z=857.11, cpos=[-16, 53], tl=49937, v=true] died, message: 'Fisherman was slain by Santix15'
+[06:25:43] [Server thread/INFO]: Villager Villager['Fisherman'/5952, uuid='a873674f-a6b7-443b-b792-01fb39724033', l='ServerLevel[world]', x=-254.57, y=64.56, z=856.05, cpos=[-16, 53], tl=744, v=true] died, message: 'Fisherman was slain by Santix15'
+[06:25:46] [Server thread/INFO]: Villager Villager['Fisherman'/78, uuid='1d69ac58-c700-4391-8618-776be3748df6', l='ServerLevel[world]', x=-254.49, y=64.55, z=855.49, cpos=[-16, 53], tl=50052, v=true] died, message: 'Fisherman was slain by Santix15'
+[06:26:13] [Server thread/INFO]: Villager Villager['Villager'/6060, uuid='170b9e30-0c1a-4541-8087-89aaf5787ef2', l='ServerLevel[world]', x=-255.25, y=64.56, z=855.89, cpos=[-16, 53], tl=124, v=true] died, message: 'Villager was slain by Santix15'
+[06:26:31] [Server thread/INFO]: Villager Villager['Fisherman'/6037, uuid='a27bc710-bc50-4a86-8c1d-71a169c0825d', l='ServerLevel[world]', x=-256.12, y=62.96, z=851.62, cpos=[-17, 53], tl=697, v=true] died, message: 'Fisherman tried to swim in lava to escape Santix15'
+[06:27:02] [Server thread/INFO]: Villager Villager['Fisherman'/6035, uuid='e1f270cb-286c-4be1-8de3-438b55d3cae8', l='ServerLevel[world]', x=-256.33, y=64.00, z=855.38, cpos=[-17, 53], tl=1355, v=true] died, message: 'Fisherman was slain by Santix15'
+[06:27:04] [Server thread/INFO]: Villager Villager['Fisherman'/6129, uuid='938058ee-2251-449c-8d09-d6dcf294e406', l='ServerLevel[world]', x=-254.48, y=64.56, z=856.52, cpos=[-16, 53], tl=371, v=true] died, message: 'Fisherman was slain by Santix15'
+[06:27:05] [Server thread/INFO]: Villager Villager['Villager'/6131, uuid='5fa2149e-bf63-400d-8688-0acce3cc5626', l='ServerLevel[world]', x=-254.50, y=64.56, z=855.66, cpos=[-16, 53], tl=373, v=true] died, message: 'Villager was slain by Santix15'
+[06:27:43] [Server thread/INFO]: Villager Villager['Villager'/6045, uuid='004506dd-b5cd-4ac8-b77d-fd9fe0c9b597', l='ServerLevel[world]', x=-262.40, y=63.94, z=848.65, cpos=[-17, 53], tl=2081, v=true] died, message: 'Villager was slain by Santix15'
+[06:28:05] [Server thread/INFO]: Santix15 issued server command: /time set night
+[06:28:05] [Server thread/INFO]: [Santix15: Set the time to 13000]
+[06:29:32] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[06:29:32] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
