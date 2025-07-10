@@ -259,3 +259,7 @@
 [03:14:51] [Server thread/INFO]: Villager Villager['Villager'/29459, uuid='b543d93a-887f-49de-8114-d599f0b39bd6', l='ServerLevel[world]', x=399.55, y=78.00, z=1429.30, cpos=[24, 89], tl=22740, v=true] died, message: 'Villager was slain by Zombie Villager'
 [03:17:08] [Server thread/INFO]: Villager Villager['Farmer'/29776, uuid='6dab3a30-6ae5-4d2b-90b8-ba01965a6a06', l='ServerLevel[world]', x=392.06, y=62.48, z=1477.97, cpos=[24, 92], tl=25198, v=true] died, message: 'Farmer was slain by Drowned'
 [03:17:17] [Server thread/INFO]: Villager Villager['Nitwit'/29845, uuid='7eb4e6b7-2022-40ad-901e-09395dee425f', l='ServerLevel[world]', x=413.70, y=79.00, z=1442.66, cpos=[25, 90], tl=25226, v=true] died, message: 'Nitwit was slain by Zombie'
+[03:35:21] [Server thread/INFO]: lobo3224 was blown up by Creeper
+[03:37:55] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[03:37:55] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[03:38:09] [Server thread/INFO]: Villager Villager['Nitwit'/29332, uuid='fa9cc7fb-aaff-480d-a754-31f4bc905c1f', l='ServerLevel[world]', x=355.56, y=63.00, z=1436.70, cpos=[22, 89], tl=51040, v=true] died, message: 'Nitwit was slain by Zombie'
