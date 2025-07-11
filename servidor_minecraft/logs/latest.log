@@ -25,3 +25,23 @@
 [00:13:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> y conseguí nuevos amiguitos
 [00:13:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> toma tu pico
 [00:13:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> de diamond
+[00:17:33] [Server thread/INFO]: lobo3224 issued server command: /skin trollino
+[00:18:10] [Server thread/INFO]: Santix15 has made the advancement [Ol' Betsy]
+[00:18:22] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[00:18:22] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[00:21:55] [Server thread/INFO]: veltrop570 issued server command: /give veltrop570 coal 30
+[00:21:55] [Server thread/INFO]: [veltrop570: Gave 30 [Coal] to veltrop570]
+[00:22:08] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> valen?
+[00:22:20] [Server thread/INFO]: lobo3224 issued server command: /deop veltrop570
+[00:22:20] [Server thread/INFO]: [lobo3224: Made veltrop570 no longer a server operator]
+[00:22:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Santix15> ??
+[00:22:24] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> santi me diopermiso
+[00:22:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Santix15> Eh?
+[00:22:31] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> lito
+[00:23:01] [Server thread/INFO]: lobo3224 issued server command: /deop Santix15
+[00:23:01] [Server thread/INFO]: [lobo3224: Made Santix15 no longer a server operator]
+[00:23:04] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> lito
+[00:23:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/deop lobo3224<--[HERE]
+[00:24:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/op Santix15<--[HERE]
