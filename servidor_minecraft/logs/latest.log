@@ -176,3 +176,10 @@
 [04:13:45] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
 [04:15:51] [Server thread/INFO]: Santix15 issued server command: /time set day
 [04:15:51] [Server thread/INFO]: [Santix15: Set the time to 1000]
+[04:16:20] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[04:16:20] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[04:18:36] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[04:18:36] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[04:19:17] [Server thread/INFO]: Villager Villager['Villager'/68014, uuid='8113abec-ac1a-473f-9234-40d2b409b208', l='ServerLevel[world]', x=-134.49, y=63.00, z=823.70, cpos=[-9, 51], tl=705, v=true] died, message: 'Villager was slain by Santix15'
+[04:21:05] [Server thread/INFO]: veltrop570 lost connection: Disconnected
+[04:21:05] [Server thread/INFO]: veltrop570 left the game
