@@ -186,3 +186,7 @@
 [04:30:16] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
 [04:30:16] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
 [04:31:48] [Server thread/INFO]: Santix15 has made the advancement [Best Friends Forever]
+[05:05:20] [Server thread/INFO]: Villager Villager['Villager'/39580, uuid='0c8d84cd-8fd2-4f97-89a6-aa4bff640595', l='ServerLevel[world]', x=-145.13, y=60.00, z=826.59, cpos=[-10, 51], tl=236807, v=true] died, message: 'Villager was slain by Zombie'
+[05:05:47] [Server thread/INFO]: Villager Villager['Farmer'/39535, uuid='0a33bc58-92b6-44fa-b7f0-3b56e2c80261', l='ServerLevel[world]', x=-148.62, y=59.56, z=821.13, cpos=[-10, 51], tl=237352, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[05:06:16] [Server thread/INFO]: Villager Villager['Armorer'/39532, uuid='d980dcdd-0e35-4d5b-8e98-c54c2913081e', l='ServerLevel[world]', x=-142.02, y=60.00, z=826.22, cpos=[-9, 51], tl=237950, v=true] died, message: 'Armorer was slain by Zombie Villager'
+[05:06:25] [Server thread/INFO]: Villager Villager['Toolsmith'/39536, uuid='a9ee172c-cd40-4d3a-bdf6-563eeef64e1d', l='ServerLevel[world]', x=-146.75, y=59.56, z=820.63, cpos=[-10, 51], tl=238115, v=true] died, message: 'Toolsmith was slain by Zombie Villager'
